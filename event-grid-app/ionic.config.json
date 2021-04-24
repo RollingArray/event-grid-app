@@ -1,0 +1,8 @@
+{
+  "name": "event-grid",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ff9886e3"
+}
