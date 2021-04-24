@@ -1,0 +1,57 @@
+<ion-card>
+	<div class="talk">
+		<ion-icon name="mic-circle-outline"></ion-icon>
+	</div>
+	<div class="talk-date">
+		{{ event.eventDate }}
+	</div>
+	<!-- <app-image-holder [image]="event.eventName"></app-image-holder> -->
+	<ion-card-header>
+		<ion-card-title>{{ event.eventName }} </ion-card-title>
+		<div class="time-duration">
+			<div class="in-between">
+				<div class="start-time">
+					{{ event.eventStartTime }}
+				</div>
+				<div class="end-time">
+					{{ event.eventEndTime }}
+				</div>
+			</div>
+		</div>
+		<!-- <div class="bottom-border"></div> -->
+		<ion-card-content>
+			{{ event.eventDetails }}
+		</ion-card-content>
+	</ion-card-header>
+
+	<!-- <app-image-holder [image]="event.eventName"></app-image-holder> -->
+	<ion-card-header>
+		<div class="speakers">
+			<div class="in-between">
+				<div class="text">
+					Speaker(s)
+				</div>
+			</div>
+		</div>
+		
+		
+		<ion-chip *ngFor="let speaker of event.speakers.data">
+			<ion-avatar>
+				<img color="primary" [src]='stringKey.ICON_SPEAKER'/>
+			</ion-avatar>
+			<ion-label>{{speaker?.speakerName}}</ion-label>
+		  </ion-chip>
+
+		<!--  -->
+		<!-- <div class="bottom-border"></div> -->
+		
+	</ion-card-header>
+	
+	
+	
+
+	<!-- <ion-footer *ngIf="!isDetailView">
+		<ion-icon name="newspaper"></ion-icon>
+			{{ event.source }}
+	</ion-footer> -->
+</ion-card>
