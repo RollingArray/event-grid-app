@@ -1,0 +1,39 @@
+<ion-app>
+	<ion-split-pane contentId="content">
+		<ion-menu contentId="content" type="overlay">
+			<ion-content color="secondary">
+				<ion-grid lines="none">
+					<p align="center">
+						<img src="assets/images/app_icon.svg" />
+					</p>
+				</ion-grid>
+				<ion-grid>
+					<ion-row>
+						<ion-col>
+							<ion-button expand="block" color="dark" (click)="registerDevice()">
+								<ion-icon [src]="stringKey.ICON_NOTIFICATION"></ion-icon>
+								<ion-label>&nbsp; {{stringKey.RECEIVE_NOTIFICATION}}
+								</ion-label>
+							</ion-button>
+						</ion-col>
+					</ion-row>
+				</ion-grid>
+				<img color="primary" src="assets/images/discover.svg" />
+			</ion-content>
+
+			<!-- <button  *ngIf="showButton">Add to Home Scree</button> -->
+
+			<img src="assets/images/ios_install.svg" *ngIf="showIOSPrompt" />
+			<img src="assets/images/install_prompt.svg" *ngIf="showAppInstallPrompt" (click)="addToHomeScreen()" />
+
+			<ion-footer>
+				<ion-toolbar color="tertiary">
+					<p align="center">
+						<ion-label>Version {{stringKey.APP_VERSION}}</ion-label>
+					</p>
+				</ion-toolbar>
+			</ion-footer>
+		</ion-menu>
+		<ion-router-outlet id="content"></ion-router-outlet>
+	</ion-split-pane>
+</ion-app>
