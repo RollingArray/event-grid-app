@@ -1,0 +1,32 @@
+#columns {
+    column-width: 100%;
+    column-gap: 15px;
+    width: 97%;
+    margin: 10px auto;
+}
+
+div#columns figure {
+    margin: 0;
+    display: inline-block;
+    column-break-inside: avoid;
+}
+
+.offine{
+    background: var(--ion-color-warning);
+    box-shadow: 4px 3px 15px 1px #000000;
+    padding: 20px;
+    color: #000;
+    vertical-align: middle;
+    text-align: center;
+}
+ion-icon {
+    font-size: 50px; //Preferred size here
+}
+
+.offline-header{
+    display:block;
+    text-align: center;
+    font-weight: bold;
+    margin: 0 0 5px 0;
+    font-size: large;
+}

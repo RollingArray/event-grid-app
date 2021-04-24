@@ -1,0 +1,37 @@
+<!-- header -->
+<ion-header>
+	<ion-toolbar color="primary">
+		<ion-title> {{stringKey.EVENTS}} </ion-title>
+		<ion-buttons slot="start">
+			<ion-menu-button></ion-menu-button>
+		</ion-buttons>
+		<ion-buttons slot="end">
+			<ion-icon slot="start" (click)="getData()" name="repeat-outline" *ngIf="!loadingContent"></ion-icon>
+			<ion-spinner color="primary" *ngIf="loadingContent"></ion-spinner>
+		</ion-buttons>
+	</ion-toolbar>
+</ion-header>
+<!-- header -->
+
+<ion-content color="dark">
+	<div class="offine" *ngIf="!ifNetworkReachable">
+		<div class="offline-header">You're offline ! </div>
+		Latest event details are available to read. Any update to the event details would require network connection to
+		resort
+	</div>
+
+	<!-- refresh btn -->
+	<ion-refresher slot="fixed" (ionRefresh)="doRefresh($event)">
+		<ion-refresher-content></ion-refresher-content>
+	</ion-refresher>
+	<!-- refresh btn -->
+
+	<!-- no data -->
+	<app-no-data *ngIf="!hasData"></app-no-data>
+	<!-- no data -->
+	<ng-container *ngIf="hasData">
+		<div id="columns" *ngFor="let event of events" (click)="eventDetails(event)">
+			<app-event-thumbnail [event]="event" [isDetailView]="false"></app-event-thumbnail>
+		</div>
+	</ng-container>
+</ion-content>

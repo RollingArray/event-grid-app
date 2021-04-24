@@ -1,0 +1,19 @@
+<ion-header>
+	<ion-toolbar color="primary">
+		<ion-title>
+			{{event.eventName}}
+		</ion-title>
+		<ion-buttons slot="end">
+			<ion-button fill="outline" (click)="closeModal()">{{
+				stringKey.CLOSE
+				}}</ion-button>
+		</ion-buttons>
+	</ion-toolbar>
+</ion-header>
+
+<!-- header -->
+<ion-content color="dark">
+	<ion-row>
+		<app-event-thumbnail [isDetailView]=true [event]="event"></app-event-thumbnail>
+	</ion-row>
+</ion-content>
