@@ -1,6 +1,6 @@
 export class StringKey {
     public static readonly  APP_NAME: string = 'Event Grid';
-    public static readonly  APP_VERSION: string = '1.0.28';
+    public static readonly  APP_VERSION: string = '1.0.35';
     
     public static readonly  EVENTS: string = 'Event(s)';
     public static readonly  RECEIVE_NOTIFICATION: string = 'Allow Notification(s)';
@@ -12,11 +12,10 @@ export class StringKey {
     public static readonly  ICON_SPEAKER : string =  StringKey.ICON_BASE_PATH + "speaker.svg";
     public static readonly  ICON_NOTIFICATION : string =  StringKey.ICON_BASE_PATH + "notifications.svg";
     
-
     public static readonly  IMAGE_BASE_PATH : string =  "assets/images/";
     public static readonly  IMAGE_LOADER : string =  StringKey.IMAGE_BASE_PATH + "loader.svg";
     public static readonly  DEFAULT_IMAGE : string =  StringKey.IMAGE_BASE_PATH + "event-placeholder.jpeg";
-    
+
     public static readonly  COLOR_PRIMARY : string =  "primary";
     public static readonly  COLOR_SECONDARY : string =  "secondary";
     public static readonly  COLOR_TERNARY : string =  "tertiary";

@@ -44,4 +44,13 @@ export class EventService extends BaseService<EventModel> {
 	getUserEvent(eventModel: EventModel): Observable<BaseModel> {
 		return this.get(`${ApiUrls.ALL_EVENTS}` );
 	}
+
+	/**
+	 * 
+	 * @returns 
+	 */
+	 getEventNotification(): Observable<BaseModel> {
+		return this.get(`${ApiUrls.ALL_NOTIFICATIONS}` );
+	}
+
 }

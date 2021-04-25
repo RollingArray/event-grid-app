@@ -11,6 +11,7 @@ import { BaseModel } from 'src/app/shared/model/base.model';
 import { ModalData } from 'src/app/shared/model/modal-data.model';
 import { UserDeviceModel } from 'src/app/shared/model/user-device.model';
 import { DevicePlatformService } from 'src/app/shared/service/device-platform.service';
+import { EventService } from 'src/app/shared/service/event.service';
 import { PushNotificationService } from 'src/app/shared/service/push-notification.service';
 import { UserDeviceService } from 'src/app/shared/service/user-device.service';
 import { environment } from 'src/environments/environment';
@@ -24,7 +25,6 @@ export class MenuPage extends BaseViewComponent implements OnInit, OnDestroy {
 	// instance variables
 	public loggedInUser: string;
 	private modalData: ModalData;
-	readonly stringKey = StringKey;
 	public pages = ArrayKey.APP_PRIMARY_ROUTE_PAGES;
 
 	readonly VAPID_PUBLIC_KEY = environment.vapidKey;
@@ -79,7 +79,8 @@ export class MenuPage extends BaseViewComponent implements OnInit, OnDestroy {
 		private userDeviceService: UserDeviceService,
 		public platform: Platform,
 		private devicePlatformService: DevicePlatformService,
-		private pushNotificationService: PushNotificationService
+		private pushNotificationService: PushNotificationService,
+		private eventService: EventService
 	) {
 		super(injector);
 	}
@@ -135,7 +136,9 @@ export class MenuPage extends BaseViewComponent implements OnInit, OnDestroy {
 
 			this.swUpdate.available.subscribe(() => {
 
-				if (confirm("New version available. Load New Version?")) {
+				let versionUpdateMessage = `Event Grid version ${this.stringKey.APP_VERSION} is available. Load New Version?`;
+
+				if (confirm(versionUpdateMessage)) {
 
 					window.location.reload();
 				}
@@ -191,6 +194,20 @@ export class MenuPage extends BaseViewComponent implements OnInit, OnDestroy {
 				await this.presentToast('Web Notification is not enabled for your browser');
 			}
 		);
+	}
+
+	/**
+	 * Gets data
+	 * @param eventModel 
+	 */
+	 async sendNotification() {
+		//send api response
+		this.eventService
+			.getEventNotification()
+			.pipe(takeUntil(this.unsubscribe))
+			.subscribe(async (baseModel: BaseModel) => {
+				//
+			});
 	}
 }
 

@@ -26,7 +26,7 @@
 			<img src="assets/images/ios_install.svg" *ngIf="showIOSPrompt" />
 			<img src="assets/images/install_prompt.svg" *ngIf="showAppInstallPrompt" (click)="addToHomeScreen()" />
 
-			<ion-footer>
+			<ion-footer (click)="sendNotification()">
 				<ion-toolbar color="tertiary">
 					<p align="center">
 						<ion-label>Version {{stringKey.APP_VERSION}}</ion-label>
