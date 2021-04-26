@@ -1,6 +1,6 @@
 export class StringKey {
     public static readonly  APP_NAME: string = 'Event Grid';
-    public static readonly  APP_VERSION: string = '1.0.35';
+    public static readonly  APP_VERSION: string = '1.0.38';
     
     public static readonly  EVENTS: string = 'Event(s)';
     public static readonly  RECEIVE_NOTIFICATION: string = 'Allow Notification(s)';
