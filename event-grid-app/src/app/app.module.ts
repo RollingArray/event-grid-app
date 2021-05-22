@@ -17,7 +17,7 @@ import { DatePipe, LocationStrategy, HashLocationStrategy } from '@angular/commo
 
 //fa
 import { ServiceWorkerModule } from '@angular/service-worker';
-import { environment } from '../environments/environment.example';
+import { environment } from '../environments/environment';
 import { AngularFireModule } from '@angular/fire';
 import { AngularFireMessagingModule } from '@angular/fire/messaging';
 
