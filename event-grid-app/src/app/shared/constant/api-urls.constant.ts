@@ -1,4 +1,4 @@
-import { environment } from "../../../environments/environment";
+import { environment } from "../../../environments/environment.example";
 
 export class ApiUrls {
 	public static readonly API_ENDPOINT: string = environment.apiEndpoint;

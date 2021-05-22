@@ -14,7 +14,7 @@ import { DevicePlatformService } from 'src/app/shared/service/device-platform.se
 import { EventService } from 'src/app/shared/service/event.service';
 import { PushNotificationService } from 'src/app/shared/service/push-notification.service';
 import { UserDeviceService } from 'src/app/shared/service/user-device.service';
-import { environment } from 'src/environments/environment';
+import { environment } from 'src/environments/environment.example';
 
 @Component({
 	selector: "app-menu",
