@@ -136,7 +136,7 @@ export class MenuPage extends BaseViewComponent implements OnInit, OnDestroy {
 
 			this.swUpdate.available.subscribe(() => {
 
-				let versionUpdateMessage = `Event Grid version ${this.stringKey.APP_VERSION} is available. Load New Version?`;
+				let versionUpdateMessage = `New version is available. Load New Version?`;
 
 				if (confirm(versionUpdateMessage)) {
 
