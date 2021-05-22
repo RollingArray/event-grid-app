@@ -18,7 +18,7 @@ echo "Copy icon-source.svg from icon-source";
 cp event-grid-app/src/assets/icon-source/icon-source.svg ./
 
 echo "Generate pwa splash";
-pwa-asset-generator icon-source.svg ./splash-screens --splash-only --background "#E5561A"
+pwa-asset-generator icon-source.svg ./splash-screens --splash-only --background "#ff2a29"
 
 echo "Copy newly generated splash to";
 cp -a ./splash-screens event-grid-app/src/assets/

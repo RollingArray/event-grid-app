@@ -1,11 +1,11 @@
 {
   "name": "Event Grid",
   "short_name": "Event Grid",
-  "theme_color": "#E5561A",
-  "background_color": "#E5561A",
+  "theme_color": "#ff2a29",
+  "background_color": "#ff2a29",
   "display": "standalone",
   "scope": "./",
-  "start_url": "https://event-grid.web.app",
+  "start_url": "https://eventgrid.rollingarray.co.in",
   "gcm_sender_id": "149560320630",
   "icons": [
     {
