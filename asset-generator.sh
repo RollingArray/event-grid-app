@@ -1,10 +1,14 @@
 #
-# @author Ranjoy Sen
-# @email ranjoy.sen@rockwellcollins.com
-# @create date 2021-01-10 12:10:53
-# @modify date 2021-01-10 12:10:53
-# @desc PWA Asset generator and any app. Follow readme file before running this script
+# © Rolling Array https://rollingarray.co.in/
 #
+#
+# @summary PWA Asset generator and any app. Follow readme file before running this script
+# @author code@rollingarray.co.in
+#
+# Created at     : 2021-05-22 19:18:01 
+ * Last modified  : 2021-05-22 19:18:46
+#/
+
 
 
 echo "Copy icon-source.png from icon-source";
