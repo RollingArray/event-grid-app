@@ -1,8 +1,8 @@
 {
   "name": "Event Grid",
   "short_name": "Event Grid",
-  "theme_color": "#ff2a29",
-  "background_color": "#ff2a29",
+  "theme_color": "#ee4338",
+  "background_color": "#ee4338",
   "display": "standalone",
   "scope": "./",
   "start_url": "https://eventgrid.rollingarray.co.in",
