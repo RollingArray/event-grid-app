@@ -1,7 +1,7 @@
 // Ionic Variables and Theming. For more info, please see:
 // http://ionicframework.com/docs/theming/
 
-@import url(https://fonts.googleapis.com/css?family=Ubuntu&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap);
 
 :root {
   // font
@@ -9,7 +9,7 @@
   font-family: var(--ion-font-family) !important;
   
   /** primary **/
-  --ion-color-primary: linear-gradient(to left, #ee4338, #e4571f);
+  --ion-color-primary: linear-gradient(to left, #ee4338, #ee4338);
   --ion-color-primary-rgb: 56, 128, 255;
   --ion-color-primary-contrast: #ffffff;
   --ion-color-primary-contrast-rgb: 255, 255, 255;
@@ -17,15 +17,15 @@
   --ion-color-primary-tint: #c72a7d;
 
   /** secondary **/
-  --ion-color-secondary: linear-gradient(to top, #a73102, #ee4338);
+  --ion-color-secondary: linear-gradient(to top, #ee4338, #b02f26);
   --ion-color-secondary-rgb: 12, 209, 232;
   --ion-color-secondary-contrast: #ffffff;
   --ion-color-secondary-contrast-rgb: 255, 255, 255;
-  --ion-color-secondary-shade: #c23700;
-  --ion-color-secondary-tint: #e1490d;
+  --ion-color-secondary-shade: #ee4338;
+  --ion-color-secondary-tint: #ee4338;
 
   /** tertiary **/
-  --ion-color-tertiary: linear-gradient(to top, #c23700, #ee4338);
+  --ion-color-tertiary: linear-gradient(to top, #b02f26, #a22a21);
   --ion-color-tertiary-rgb: 112, 68, 255;
   --ion-color-tertiary-contrast: #ffffff;
   --ion-color-tertiary-contrast-rgb: 255, 255, 255;
@@ -37,8 +37,8 @@
   --ion-color-quaternary-rgb: 12, 209, 232;
   --ion-color-quaternary-contrast: #ffffff;
   --ion-color-quaternary-contrast-rgb: 255, 255, 255;
-  --ion-color-quaternary-shade: #c23700;
-  --ion-color-quaternary-tint: #e1490d;
+  --ion-color-quaternary-shade: #ee4338;
+  --ion-color-quaternary-tint: #ee4338;
 
   /** success **/
   --ion-color-success: #01923b;
