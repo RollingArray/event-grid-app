@@ -8,7 +8,7 @@
 	.st0{fill:#231F20;stroke:#000000;stroke-width:1.2797;stroke-miterlimit:15.1181;}
 	.st1{fill:#231F20;}
 	.st2{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:1.2797;stroke-miterlimit:15.1181;}
-	.st3{fill:#E45620;}
+	.st3{fill:#FF2A29;}
 	.st4{fill:#FFFFFF;}
 </style>
 <sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview932" inkscape:current-layer="Layer_1" inkscape:cx="1024" inkscape:cy="425" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="1075" inkscape:window-maximized="1" inkscape:window-width="1736" inkscape:window-x="0" inkscape:window-y="23" inkscape:zoom="0.34765625" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
@@ -111,7 +111,7 @@
 	<g id="text921" transform="matrix(1 0 0 1 1041.4464 382.8302)">
 		<path id="path938" d="M16.6,67V-83H100v16.6H50v50h33.4V0.4H50v50h50V67H16.6z"/>
 		<path id="path940" d="M200.2-49.6h33.2V10c0,15.6-5.6,29-16.8,40.2c-11.1,11.2-24.4,16.8-40,16.8h-43.2V-49.6h33.4v100h16.6
-			c4.7,0,8.6-1.7,11.8-5c3.3-3.3,5-7.3,5-11.8L200.2-49.6L200.2-49.6z"/>
+			c4.7,0,8.6-1.7,11.8-5c3.3-3.3,5-7.3,5-11.8V-49.6L200.2-49.6z"/>
 		<path id="path942" d="M367,17h-66.6v16.6c0,4.5,1.6,8.5,4.8,11.8c3.3,3.3,7.3,5,11.8,5h16.8c11.1,0,16.6-5.6,16.6-16.8H367
 			C364.5,55.9,353.4,67,333.8,67h-33.4c-9.1,0-16.9-3.3-23.6-9.8c-6.5-6.5-9.8-14.4-9.8-23.6v-50c0-9.1,3.3-16.9,9.8-23.4
 			c6.7-6.5,14.5-9.8,23.6-9.8h33.4c9.1,0,16.9,3.3,23.4,9.8s9.8,14.3,9.8,23.4L367,17L367,17z M300.4,0.4h33.4v-16.8
@@ -139,7 +139,7 @@
 	<g id="text926" transform="matrix(1 0 0 1 1030 375.3991)">
 		<path id="path958" class="st4" d="M16.6,67V-83H100v16.6H50v50h33.4V0.4H50v50h50V67H16.6z"/>
 		<path id="path960" class="st4" d="M200.2-49.6h33.2V10c0,15.6-5.6,29-16.8,40.2c-11.1,11.2-24.4,16.8-40,16.8h-43.2V-49.6h33.4
-			v100h16.6c4.7,0,8.6-1.7,11.8-5c3.3-3.3,5-7.3,5-11.8L200.2-49.6L200.2-49.6z"/>
+			v100h16.6c4.7,0,8.6-1.7,11.8-5c3.3-3.3,5-7.3,5-11.8V-49.6L200.2-49.6z"/>
 		<path id="path962" class="st4" d="M367,17h-66.6v16.6c0,4.5,1.6,8.5,4.8,11.8c3.3,3.3,7.3,5,11.8,5h16.8
 			c11.1,0,16.6-5.6,16.6-16.8H367C364.5,55.9,353.4,67,333.8,67h-33.4c-9.1,0-16.9-3.3-23.6-9.8c-6.5-6.5-9.8-14.4-9.8-23.6v-50
 			c0-9.1,3.3-16.9,9.8-23.4c6.7-6.5,14.5-9.8,23.6-9.8h33.4c9.1,0,16.9,3.3,23.4,9.8s9.8,14.3,9.8,23.4L367,17L367,17z M300.4,0.4
