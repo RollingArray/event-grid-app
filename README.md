@@ -4,6 +4,7 @@
 ---
 
 ## Table of Contents
+- [Table of Contents](#table-of-contents)
 - [:link: Visit ***`Event Grid`***](#link-visit-event-grid)
 - [:link: Author](#link-author)
 - [:link: Show your support](#link-show-your-support)
@@ -11,14 +12,14 @@
 
 
 ---
-# :link: Visit ***[`Event Grid`](http://eventgrid.rollingarray.co.in/)***
+## :link: Visit ***[`Event Grid`](http://eventgrid.rollingarray.co.in/)***
 http://eventgrid.rollingarray.co.in/
 
-<img width="250" align="right" src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/desktop-1.png?raw=true" alt="demo"/>
+<img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/desktop-1.png?raw=true" alt="demo"/>
 
 **[⬆ back to top](#table-of-contents)**
 
-# :link: Author
+## :link: Author
 **Ranjoy Sen**
 
 - https://rollingarray.co.in
@@ -26,11 +27,11 @@ http://eventgrid.rollingarray.co.in/
 - Twitter: [@ranjoy85](Https://twitter.Com/ranjoy85)
 - Github: [@RollingArray](https://github.com/RollingArray)
 
-# :link: Show your support
+## :link: Show your support
 
 Please ⭐️ this repository if this project helped you!
 
 
-# :link: License
+## :link: License
 support@rollingarray.co.in | C2 | © [rollingarray.co.in](http://rollingarray.co.in/).<br />
 This project is [Apache](https://github.com/RollingArray/event-grid-app/blob/main/LICENSE) licensed.
