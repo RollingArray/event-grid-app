@@ -17,13 +17,14 @@
   - [:link: Tap on ***Add to Home Screen***](#link-tap-on-add-to-home-screen)
   - [:link: Tap on ***Add***](#link-tap-on-add)
   - [:link: ***Event Grid*** will be available @ your home screen](#link-event-grid-will-be-available--your-home-screen)
-  - [:link: ***Tap*** on the app, it will open up without Safari title bar and menu and a app splash screen](#link-tap-on-the-app-it-will-open-up-without-safari-title-bar-and-menu-and-a-app-splash-screen)
+  - [:link: ***Tap*** on the app, it will open up without Safari title bar and menu. The app will start with a  splash screen](#link-tap-on-the-app-it-will-open-up-without-safari-title-bar-and-menu-the-app-will-start-with-a--splash-screen)
   - [:link: Make your device ***Offline***, and tap on the app from home screen. App would still work with offline data](#link-make-your-device-offline-and-tap-on-the-app-from-home-screen-app-would-still-work-with-offline-data)
   - [:link: Author](#link-author)
 - [:link: Android](#link-android)
   - [:link: Visit ***`Event Grid`*** from your Android device](#link-visit-event-grid-from-your-android-device)
   - [:link: Tap on ***[`Install`]*** from left menu. Alternatively, Android Chrome will default prompt to install the app](#link-tap-on-install-from-left-menu-alternatively-android-chrome-will-default-prompt-to-install-the-app)
   - [:link: Tap on ***[`Install`]*** to add the app to your Android Home screen](#link-tap-on-install-to-add-the-app-to-your-android-home-screen)
+  - [:link: ***Tap*** on the app, it will open up without Chrome title bar and menu. The app will start with a  splash screen](#link-tap-on-the-app-it-will-open-up-without-chrome-title-bar-and-menu-the-app-will-start-with-a--splash-screen)
   - [:link: Show your support](#link-show-your-support)
   - [:link: License](#link-license)
 
@@ -95,7 +96,7 @@ http://eventgrid.rollingarray.co.in/
 
 **[⬆ back to top](#table-of-contents)**
 
-## :link: ***Tap*** on the app, it will open up without Safari title bar and menu and a app splash screen 
+## :link: ***Tap*** on the app, it will open up without Safari title bar and menu. The app will start with a  splash screen 
 <img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/ios-5.png?raw=true" alt="demo"/>
 
 **[⬆ back to top](#table-of-contents)**
@@ -128,6 +129,11 @@ http://eventgrid.rollingarray.co.in/
 
 ## :link: Tap on ***[`Install`]*** to add the app to your Android Home screen
 <img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/android-3.png?raw=true" alt="demo"/>
+
+**[⬆ back to top](#table-of-contents)**
+
+## :link: ***Tap*** on the app, it will open up without Chrome title bar and menu. The app will start with a  splash screen 
+<img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/android-4.png?raw=true" alt="demo"/>
 
 **[⬆ back to top](#table-of-contents)**
 
