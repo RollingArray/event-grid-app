@@ -68,30 +68,37 @@ http://eventgrid.rollingarray.co.in/
 ## :link: Visit ***[`Event Grid`](http://eventgrid.rollingarray.co.in/)*** from your iOS device
 http://eventgrid.rollingarray.co.in/
 <img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/ios-1.png?raw=true" alt="demo"/>
+
 **[⬆ back to top](#table-of-contents)**
 
 ## :link: Tap on ***Export*** icon available @ the bottom menu of Safari
 <img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/ios-2.png?raw=true" alt="demo"/>
+
 **[⬆ back to top](#table-of-contents)**
 
 ## :link: Tap on ***Add to Home Screen ***
 <img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/ios-3.png?raw=true" alt="demo"/>
+
 **[⬆ back to top](#table-of-contents)**
 
 ## :link: Tap on ***Add***
 <img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/ios-4.png?raw=true" alt="demo"/>
+
 **[⬆ back to top](#table-of-contents)**
 
 ## :link: ***Event Grid*** will be available @ your home screen 
 <img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/ios-4.png?raw=true" alt="demo"/>
+
 **[⬆ back to top](#table-of-contents)**
 
 ## :link: ***Tap*** on the app, it will open up without Safari title bar and menu, and start with a splash screen 
 <img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/ios-5.png?raw=true" alt="demo"/>
+
 **[⬆ back to top](#table-of-contents)**
 
 ## :link: Go ***Offline*** , and visit the app. App would still work with offline data 
 <img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/ios-6.png?raw=true" alt="demo"/>
+
 **[⬆ back to top](#table-of-contents)**
 
 ## :link: Author
