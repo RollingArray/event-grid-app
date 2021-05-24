@@ -13,6 +13,9 @@
   - [:link: Receive push notification](#link-receive-push-notification)
 - [:link: iOS](#link-ios)
   - [:link: Visit ***`Event Grid`*** from your iOS device](#link-visit-event-grid-from-your-ios-device)
+  - [:link: Tap on ***Export*** icon available @ the bottom menu of Safari](#link-tap-on-export-icon-available--the-bottom-menu-of-safari)
+  - [:link: Tap on ***Add to Home Screen ***](#link-tap-on-add-to-home-screen-)
+  - [:link: Tap on ***Add***](#link-tap-on-add)
   - [:link: Author](#link-author)
   - [:link: Show your support](#link-show-your-support)
   - [:link: License](#link-license)
@@ -64,6 +67,30 @@ http://eventgrid.rollingarray.co.in/
 
 
 <img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/ios-1.png?raw=true" alt="demo"/>
+
+**[⬆ back to top](#table-of-contents)**
+
+## :link: Tap on ***Export*** icon available @ the bottom menu of Safari
+http://eventgrid.rollingarray.co.in/
+
+
+<img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/ios-2.png?raw=true" alt="demo"/>
+
+**[⬆ back to top](#table-of-contents)**
+
+## :link: Tap on ***Add to Home Screen ***
+http://eventgrid.rollingarray.co.in/
+
+
+<img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/ios-3.png?raw=true" alt="demo"/>
+
+**[⬆ back to top](#table-of-contents)**
+
+## :link: Tap on ***Add***
+http://eventgrid.rollingarray.co.in/
+
+
+<img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/ios-4.png?raw=true" alt="demo"/>
 
 **[⬆ back to top](#table-of-contents)**
 
