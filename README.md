@@ -22,6 +22,8 @@
   - [:link: Author](#link-author)
 - [:link: Android](#link-android)
   - [:link: Visit ***`Event Grid`*** from your Android device](#link-visit-event-grid-from-your-android-device)
+  - [:link: Tap on ***[`Install`]*** from left menu. Alternatively, Android Chrome will default prompt to install the app](#link-tap-on-install-from-left-menu-alternatively-android-chrome-will-default-prompt-to-install-the-app)
+  - [:link: Tap on ***[`Install`]*** to add the app to your Android Home screen](#link-tap-on-install-to-add-the-app-to-your-android-home-screen)
   - [:link: Show your support](#link-show-your-support)
   - [:link: License](#link-license)
 
@@ -115,6 +117,17 @@ http://eventgrid.rollingarray.co.in/
 ## :link: Visit ***[`Event Grid`](http://eventgrid.rollingarray.co.in/)*** from your Android device
 http://eventgrid.rollingarray.co.in/
 <img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/android-1.png?raw=true" alt="demo"/>
+
+**[⬆ back to top](#table-of-contents)**
+
+## :link: Tap on ***[`Install`]*** from left menu. Alternatively, Android Chrome will default prompt to install the app
+<img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/android-2.png?raw=true" alt="demo"/>
+
+**[⬆ back to top](#table-of-contents)**
+
+
+## :link: Tap on ***[`Install`]*** to add the app to your Android Home screen
+<img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/android-3.png?raw=true" alt="demo"/>
 
 **[⬆ back to top](#table-of-contents)**
 
