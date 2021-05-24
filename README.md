@@ -155,5 +155,5 @@ Please ⭐️ this repository if this project helped you!
 
 
 ## :link: License
-support@rollingarray.co.in | C2 | © [rollingarray.co.in](http://rollingarray.co.in/).<br />
+support@rollingarray.co.in | Event Grid | © [rollingarray.co.in](http://rollingarray.co.in/).<br />
 This project is [Apache](https://github.com/RollingArray/event-grid-app/blob/main/LICENSE) licensed.
