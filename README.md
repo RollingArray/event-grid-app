@@ -4,18 +4,26 @@
 ---
 
 ## Table of Contents
-- [Table of Contents](#table-of-contents)
-- [:link: Visit ***`Event Grid`***](#link-visit-event-grid)
-- [:link: Author](#link-author)
-- [:link: Show your support](#link-show-your-support)
-- [:link: License](#link-license)
+- [:link: Desktop](#link-desktop)
+  - [:link: Visit ***`Event Grid`***](#link-visit-event-grid)
+  - [:link: Default Install PWA in Chrome](#link-default-install-pwa-in-chrome)
+  - [:link: Author](#link-author)
+  - [:link: Show your support](#link-show-your-support)
+  - [:link: License](#link-license)
 
 
 ---
+# :link: Desktop
 ## :link: Visit ***[`Event Grid`](http://eventgrid.rollingarray.co.in/)***
 http://eventgrid.rollingarray.co.in/
 
 <img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/desktop-1.png?raw=true" alt="demo"/>
+
+**[⬆ back to top](#table-of-contents)**
+
+## :link: Default Install PWA in Chrome
+
+<img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/desktop-2.png?raw=true" alt="demo"/>
 
 **[⬆ back to top](#table-of-contents)**
 
