@@ -13,12 +13,12 @@
   - [:link: Receive push notification](#link-receive-push-notification)
 - [:link: iOS](#link-ios)
   - [:link: Visit ***`Event Grid`*** from your iOS device](#link-visit-event-grid-from-your-ios-device)
-  - [:link: Tap on ***[`Export`]*** icon available @ the bottom menu of Safari](#link-tap-on-export-icon-available--the-bottom-menu-of-safari)
-  - [:link: Tap on ***[`Add to Home Screen`]***](#link-tap-on-add-to-home-screen)
-  - [:link: Tap on ***[`Add`]***](#link-tap-on-add)
-  - [:link: ***[`Event Grid`]*** will be available @ your home screen](#link-event-grid-will-be-available--your-home-screen)
-  - [:link: ***[`Tap`]*** on the app, it will open up without Safari title bar and menu and a app splash screen](#link-tap-on-the-app-it-will-open-up-without-safari-title-bar-and-menu-and-a-app-splash-screen)
-  - [:link: Make your device ***[`Offline***`], and tap on the app from home screen. App would still work with offline data](#link-make-your-device-offline-and-tap-on-the-app-from-home-screen-app-would-still-work-with-offline-data)
+  - [:link: Tap on ***Export*** icon available @ the bottom menu of Safari](#link-tap-on-export-icon-available--the-bottom-menu-of-safari)
+  - [:link: Tap on ***Add to Home Screen***](#link-tap-on-add-to-home-screen)
+  - [:link: Tap on ***Add***](#link-tap-on-add)
+  - [:link: ***Event Grid*** will be available @ your home screen](#link-event-grid-will-be-available--your-home-screen)
+  - [:link: ***Tap*** on the app, it will open up without Safari title bar and menu and a app splash screen](#link-tap-on-the-app-it-will-open-up-without-safari-title-bar-and-menu-and-a-app-splash-screen)
+  - [:link: Make your device ***Offline***, and tap on the app from home screen. App would still work with offline data](#link-make-your-device-offline-and-tap-on-the-app-from-home-screen-app-would-still-work-with-offline-data)
   - [:link: Author](#link-author)
   - [:link: Show your support](#link-show-your-support)
   - [:link: License](#link-license)
@@ -71,32 +71,32 @@ http://eventgrid.rollingarray.co.in/
 
 **[⬆ back to top](#table-of-contents)**
 
-## :link: Tap on ***[`Export`]*** icon available @ the bottom menu of Safari
+## :link: Tap on ***Export*** icon available @ the bottom menu of Safari
 <img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/ios-2.png?raw=true" alt="demo"/>
 
 **[⬆ back to top](#table-of-contents)**
 
-## :link: Tap on ***[`Add to Home Screen`]***
+## :link: Tap on ***Add to Home Screen***
 <img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/ios-3.png?raw=true" alt="demo"/>
 
 **[⬆ back to top](#table-of-contents)**
 
-## :link: Tap on ***[`Add`]***
+## :link: Tap on ***Add***
 <img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/ios-4.png?raw=true" alt="demo"/>
 
 **[⬆ back to top](#table-of-contents)**
 
-## :link: ***[`Event Grid`]*** will be available @ your home screen 
+## :link: ***Event Grid*** will be available @ your home screen 
 <img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/ios-4.png?raw=true" alt="demo"/>
 
 **[⬆ back to top](#table-of-contents)**
 
-## :link: ***[`Tap`]*** on the app, it will open up without Safari title bar and menu and a app splash screen 
+## :link: ***Tap*** on the app, it will open up without Safari title bar and menu and a app splash screen 
 <img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/ios-5.png?raw=true" alt="demo"/>
 
 **[⬆ back to top](#table-of-contents)**
 
-## :link: Make your device ***[`Offline***`], and tap on the app from home screen. App would still work with offline data 
+## :link: Make your device ***Offline***, and tap on the app from home screen. App would still work with offline data 
 <img src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/ios-6.png?raw=true" alt="demo"/>
 
 **[⬆ back to top](#table-of-contents)**
