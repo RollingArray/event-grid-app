@@ -9,7 +9,7 @@
   font-family: var(--ion-font-family) !important;
   
   /** primary **/
-  --ion-color-primary: linear-gradient(to left, #ee4338, #ee4338);
+  --ion-color-primary: linear-gradient(to top, #b02f26, #dc5143);
   --ion-color-primary-rgb: 56, 128, 255;
   --ion-color-primary-contrast: #ffffff;
   --ion-color-primary-contrast-rgb: 255, 255, 255;
@@ -17,12 +17,12 @@
   --ion-color-primary-tint: #c72a7d;
 
   /** secondary **/
-  --ion-color-secondary: linear-gradient(to top, #ee4338, #b02f26);
+  --ion-color-secondary: linear-gradient(to bottom, #dc5143, #b02f26);
   --ion-color-secondary-rgb: 12, 209, 232;
   --ion-color-secondary-contrast: #ffffff;
   --ion-color-secondary-contrast-rgb: 255, 255, 255;
-  --ion-color-secondary-shade: #ee4338;
-  --ion-color-secondary-tint: #ee4338;
+  --ion-color-secondary-shade: #dc5143;
+  --ion-color-secondary-tint: #dc5143;
 
   /** tertiary **/
   --ion-color-tertiary: linear-gradient(to top, #b02f26, #a22a21);
@@ -37,8 +37,8 @@
   --ion-color-quaternary-rgb: 12, 209, 232;
   --ion-color-quaternary-contrast: #ffffff;
   --ion-color-quaternary-contrast-rgb: 255, 255, 255;
-  --ion-color-quaternary-shade: #ee4338;
-  --ion-color-quaternary-tint: #ee4338;
+  --ion-color-quaternary-shade: #dc5143;
+  --ion-color-quaternary-tint: #dc5143;
 
   /** success **/
   --ion-color-success: #01923b;
@@ -73,7 +73,7 @@
   --ion-color-dark-tint: #383a3e;
 
   /** semi dark **/
-  --ion-color-semi-dark: #ee4338;
+  --ion-color-semi-dark: #dc5143;
   --ion-color-semi-dark-rgb: 34, 34, 34;
   --ion-color-semi-dark-contrast: #ffffff;
   --ion-color-semi-dark-contrast-rgb: 255, 255, 255;
@@ -97,7 +97,7 @@
   --ion-color-light-tint: #f5f6f9;
 
   /** primary-gradient **/
-  --ion-color-primary-gradient: linear-gradient(to right, #ee4338,rgba(255,255,255,0));
+  --ion-color-primary-gradient: linear-gradient(to right, #dc5143,rgba(255,255,255,0));
   --ion-color-primary-gradient-rgb: 244, 244, 244;
   --ion-color-primary-gradient-contrast: #fff5f5;
   --ion-color-primary-gradient-contrast-rgb: 0, 0, 0;

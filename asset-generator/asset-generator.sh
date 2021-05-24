@@ -6,22 +6,22 @@
 # @author code@rollingarray.co.in
 #
 # Created at     : 2021-05-22 19:18:01 
- * Last modified  : 2021-05-22 19:18:46
+# Last modified  : 2021-05-22 19:18:46
 #/
 
 
 
 echo "Copy icon-source.png from icon-source";
-cp event-grid-app/src/assets/icon-source/icon-source.png ./
+cp ../event-grid-app/src/assets/icon-source/icon-source.png ./
 
 echo "Copy icon-source.svg from icon-source";
-cp event-grid-app/src/assets/icon-source/icon-source.svg ./
+cp ../event-grid-app/src/assets/icon-source/icon-source.svg ./
 
 echo "Generate pwa splash";
-pwa-asset-generator icon-source.svg ./splash-screens --splash-only --background "#ff2a29"
+pwa-asset-generator icon-source.svg ./splash-screens --splash-only --background "#dc5143"
 
 echo "Copy newly generated splash to";
-cp -a ./splash-screens event-grid-app/src/assets/
+cp -a ./splash-screens ../event-grid-app/src/assets/
 
 echo "Create icons";
 mkdir ./icons
@@ -64,7 +64,7 @@ sips -z 512 512 icon-source.png --out ./icons/icon-512x512.png
 
 
 echo "Copy newly icons to";
-cp -a ./icons event-grid-app/src/assets/
+cp -a ./icons ../event-grid-app/src/assets/
 
 #echo "Cleanup";
-#find . ! -name asset-generator.sh -delete
+find . ! -name asset-generator.sh -delete
