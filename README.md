@@ -14,7 +14,7 @@
 # :link: Visit ***[`Event Grid`](http://eventgrid.rollingarray.co.in/)***
 http://eventgrid.rollingarray.co.in/
 
-<img width="250" align="right" src="https://github.com/RollingArray/event-grid-app/blob/main/images/desktop-1.png?raw=true" alt="demo"/>
+<img width="250" align="right" src="https://github.com/RollingArray/event-grid-app/blob/main/app-shots/desktop-1.png?raw=true" alt="demo"/>
 
 **[⬆ back to top](#table-of-contents)**
 
