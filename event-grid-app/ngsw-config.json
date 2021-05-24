@@ -30,7 +30,7 @@
   "dataGroups": [
     {
       "name": "api-call",
-      "urls": ["https://rollingarray.co.in/event-grid/api/v1/events.php"],
+      "urls": ["https://eventgrid-api.rollingarray.co.in/v1/all/events/"],
       "cacheConfig": {
         "maxAge": "1h",
         "maxSize": 10,
